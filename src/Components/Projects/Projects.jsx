@@ -12,7 +12,7 @@ const Projects = () => {
       </h1>
       <div className="py-12 px-8 flex flex-wrap gap-5">
         <ProjectCard
-          title="Freelancing"
+          title="Freelancing (Medulla Care Dialysis)"
           main="We have created website for Dailysis Hospital in React-Typescipt and for form validation i have used formik and yup library"
           bannerImg={MCD}
           sourceCode="https://gitlab.com/dij_kstra/medulla-care-dialysis"
