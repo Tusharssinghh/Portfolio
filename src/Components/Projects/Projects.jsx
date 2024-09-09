@@ -2,7 +2,7 @@ import React from "react";
 import ProjectCard from "./ProjectCard";
 import MCD from "../../assets/MedullaCareDialysis.jpg";
 import code from "../../assets/OnlineCodeEditor.jpg";
-import currConverter from "../../assets/CurrencyConverter.jpg";
+import currConverter from "../../assets/currencyConverter.jpg";
 
 const Projects = () => {
   return (
